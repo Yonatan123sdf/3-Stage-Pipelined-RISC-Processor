@@ -1,0 +1,104 @@
+# Project file /home/mramzan/Fiverr/268F/pipelines_3_stage.mpf was not found.
+# Unable to open project.
+# Loading project hyt
+# Compile of AddrPlus4.sv was successful.
+# Compile of ALU.sv was successful.
+# Compile of BranchCond.sv was successful.
+# Compile of controller.sv was successful.
+# Compile of Data_Memory.sv was successful.
+# Compile of First_Register.sv was successful.
+# Compile of forward_mux1.sv was successful.
+# Compile of forward_mux2.sv was successful.
+# Compile of Hazard_Controller.sv was successful.
+# Compile of Hazard_Unit.sv was successful.
+# Compile of immediate_gen.sv was successful.
+# Compile of Instruction_Fetch.sv was successful.
+# Compile of Instruction_Memory.sv was successful.
+# Compile of LoadStore_Unit.sv was successful.
+# Compile of mux_selA.sv was successful.
+# Compile of mux_selB.sv was successful.
+# Compile of MuxPC.sv was successful.
+# Compile of MuxResult.sv was successful.
+# Compile of PCPlus4.sv was successful.
+# Compile of program_Counter.sv was successful.
+# Compile of Register_file.sv was successful.
+# Compile of Second_Register.sv was successful.
+# Compile of TopLevel.sv was successful.
+# Compile of TopLevel_tb.sv was successful.
+# 24 compiles, 0 failed with no errors.
+vsim work.TopLevel_tb
+# vsim work.TopLevel_tb 
+# Start time: 17:43:27 on Dec 07,2025
+# Loading sv_std.std
+# Loading work.TopLevel_tb
+# Loading work.TopLevel
+# Loading work.PCPlus4
+# Loading work.Mux_PC
+# Loading work.program_counter
+# Loading work.Instruction_Memory
+# Loading work.First_Register
+# Loading work.Instruction_Fetch
+# Loading work.Register_file
+# Loading work.immediate_gen
+# Loading work.forward_mux1
+# Loading work.forward_mux2
+# Loading work.mux_selA
+# Loading work.mux_selB
+# Loading work.ALU
+# Loading work.Second_Register
+# Loading work.LoadStore_Unit
+# Loading work.Data_Memory
+# Loading work.MuxResult
+# Loading work.BranchCond
+# Loading work.AddrPlus4
+# Loading work.Hazard_Unit
+# Loading work.Hazard_Controller
+# Loading work.controller
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'loadstore'.  Expected 12, found 11.
+#    Time: 0 ps  Iteration: 0  Instance: /TopLevel_tb/toplevel/loadstore File: /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv Line: 124
+# ** Warning: (vsim-3722) /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv(124): [TFMPC] - Missing connection for port 'valid'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Dmem'.  Expected 9, found 8.
+#    Time: 0 ps  Iteration: 0  Instance: /TopLevel_tb/toplevel/Dmem File: /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv Line: 138
+# ** Warning: (vsim-3722) /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv(138): [TFMPC] - Missing connection for port 'valid_DM'.
+# WARNING: No extended dataflow license exists
+add wave -r sim:/TopLevel_tb/toplevel/Fetch/*
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'loadstore'.  Expected 12, found 11.
+#    Time: 0 ps  Iteration: 0  Instance: /TopLevel_tb/toplevel/loadstore File: /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv Line: 124
+# ** Warning: (vsim-3722) /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv(124): [TFMPC] - Missing connection for port 'valid'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Dmem'.  Expected 9, found 8.
+#    Time: 0 ps  Iteration: 0  Instance: /TopLevel_tb/toplevel/Dmem File: /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv Line: 138
+# ** Warning: (vsim-3722) /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv(138): [TFMPC] - Missing connection for port 'valid_DM'.
+run
+run
+# ** Note: $stop    : /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel_tb.sv(24)
+#    Time: 165 ps  Iteration: 0  Instance: /TopLevel_tb
+# Break in Module TopLevel_tb at /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel_tb.sv line 24
+run
+run
+run
+run
+add wave -r sim:/TopLevel_tb/toplevel/*
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'loadstore'.  Expected 12, found 11.
+#    Time: 0 ps  Iteration: 0  Instance: /TopLevel_tb/toplevel/loadstore File: /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv Line: 124
+# ** Warning: (vsim-3722) /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv(124): [TFMPC] - Missing connection for port 'valid'.
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'Dmem'.  Expected 9, found 8.
+#    Time: 0 ps  Iteration: 0  Instance: /TopLevel_tb/toplevel/Dmem File: /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv Line: 138
+# ** Warning: (vsim-3722) /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv(138): [TFMPC] - Missing connection for port 'valid_DM'.
+run
+run
+# ** Note: $stop    : /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel_tb.sv(24)
+#    Time: 165 ps  Iteration: 0  Instance: /TopLevel_tb
+# Break in Module TopLevel_tb at /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel_tb.sv line 24
+run
+run
+run
+run
+run
+run
+run
+run
+run

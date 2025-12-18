@@ -1,0 +1,676 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/6th_semester/CA LAB/lab_8
+T_opt
+!s110 1712125889
+VF[;hF2[m3XGO>`z:ePaHR3
+Z2 04 11 4 work TopLevel_tb fast 0
+=1-dc4a3e62f8a0-660cf7c1-191-1708
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1720893934
+Vo4H5X<c7@F<[2YogBjd1U3
+R2
+=1-dc4a3e62f8a0-6692c1eb-b3-3538
+R3
+R4
+R5
+n@_opt1
+R6
+R1
+vAddrPlus4
+Z7 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1765111393
+!i10b 1
+!s100 <bLS9O2G=[UC1H3nFzE6M1
+Z8 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImUL8:?@OMHVe;dRF[8RoV3
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z10 d/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding
+w1711418320
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/AddrPlus4.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/AddrPlus4.sv
+!i122 1299
+Z11 L0 1 8
+Z12 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1765111393.000000
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/AddrPlus4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/AddrPlus4.sv|
+!i113 1
+Z13 o-work work -sv
+R5
+n@addr@plus4
+vALU
+R7
+Z14 !s110 1765111394
+!i10b 1
+!s100 12j1YRAjV^>7H=^QYgPP`1
+R8
+I<;fImiMn1_ziIn_oQQgE52
+R9
+S1
+R10
+w1711418317
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/ALU.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/ALU.sv
+!i122 1300
+L0 1 37
+R12
+r1
+!s85 0
+31
+Z15 !s108 1765111394.000000
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/ALU.sv|
+!i113 1
+R13
+R5
+n@a@l@u
+vBranchCond
+R7
+R14
+!i10b 1
+!s100 PU0bzga>z6J1B?fU:5gnV0
+R8
+IAF9Xn6d`5jM1;PXPWJfU?2
+R9
+S1
+R10
+w1712077859
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/BranchCond.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/BranchCond.sv
+!i122 1301
+L0 1 39
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/BranchCond.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/BranchCond.sv|
+!i113 1
+R13
+R5
+n@branch@cond
+vcontroller
+R7
+R14
+!i10b 1
+!s100 l0:?^:_;[Go3S^[;cOh_M1
+R8
+II7E3ZMecoKJ4?[nYKS:>`2
+R9
+S1
+R10
+w1711418401
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/controller.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/controller.sv
+!i122 1302
+L0 1 168
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/controller.sv|
+!i113 1
+R13
+R5
+vData_Memory
+R7
+R14
+!i10b 1
+!s100 I]dF5Hf6D6a[>cmbk3?nT3
+R8
+I2zOKJcn^FGYPJOgHdcFiW3
+R9
+S1
+R10
+w1712088570
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Data_Memory.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Data_Memory.sv
+!i122 1303
+Z16 L0 1 27
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Data_Memory.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Data_Memory.sv|
+!i113 1
+R13
+R5
+n@data_@memory
+vFirst_Register
+R7
+R14
+!i10b 1
+!s100 Mz@QR4]I0Lga?b^oIbZ8I1
+R8
+I799hk4LUcgCEHRHMB>ZfL1
+R9
+S1
+R10
+w1712125837
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/First_Register.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/First_Register.sv
+!i122 1304
+Z17 L0 1 23
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/First_Register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/First_Register.sv|
+!i113 1
+R13
+R5
+n@first_@register
+vforward_mux1
+R7
+R14
+!i10b 1
+!s100 [S7?baK:d0W7``E;<mgZ]2
+R8
+I9@ZCYfH1>gQd9<K7e1WcE0
+R9
+S1
+R10
+w1712086460
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/forward_mux1.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/forward_mux1.sv
+!i122 1305
+Z18 L0 1 14
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/forward_mux1.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/forward_mux1.sv|
+!i113 1
+R13
+R5
+vforward_mux2
+R7
+R14
+!i10b 1
+!s100 VKg6^OIz]THfYz`9m_Wc;2
+R8
+IkfK<oanD02YBLFI1B_?6O1
+R9
+S1
+R10
+w1712086473
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/forward_mux2.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/forward_mux2.sv
+!i122 1306
+R18
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/forward_mux2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/forward_mux2.sv|
+!i113 1
+R13
+R5
+vHazard_Controller
+R7
+R14
+!i10b 1
+!s100 ]_QfK=DXzak]MlBYZg9`H1
+R8
+I]>JkHUd^`=InR?X`ml1G]1
+R9
+S1
+R10
+w1712086654
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Hazard_Controller.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Hazard_Controller.sv
+!i122 1307
+L0 1 29
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Hazard_Controller.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Hazard_Controller.sv|
+!i113 1
+R13
+R5
+n@hazard_@controller
+vHazard_Unit
+R7
+R14
+!i10b 1
+!s100 7ablWW;5iM6MKQc9ZQFoT0
+R8
+IChjL5laIz9cYQ>6JE;KeH3
+R9
+S1
+R10
+w1712086688
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Hazard_Unit.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Hazard_Unit.sv
+!i122 1308
+L0 1 47
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Hazard_Unit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Hazard_Unit.sv|
+!i113 1
+R13
+R5
+n@hazard_@unit
+vimmediate_gen
+R7
+R14
+!i10b 1
+!s100 m^cOEX`LT3c;63UUdN13R1
+R8
+ITS4ZFZE90><C`P1LjKl3`0
+R9
+S1
+R10
+w1711251348
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/immediate_gen.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/immediate_gen.sv
+!i122 1309
+R17
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/immediate_gen.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/immediate_gen.sv|
+!i113 1
+R13
+R5
+vInstruction_Fetch
+R7
+R14
+!i10b 1
+!s100 72I`:hNPc<QYFODbKzRGn0
+R8
+I5RgEe[1M>@g>>c[dW1Sj11
+R9
+S1
+R10
+w1711468095
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Instruction_Fetch.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Instruction_Fetch.sv
+!i122 1310
+L0 1 13
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Instruction_Fetch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Instruction_Fetch.sv|
+!i113 1
+R13
+R5
+n@instruction_@fetch
+vInstruction_Memory
+R7
+R14
+!i10b 1
+!s100 XRalYKOT0X]=MZ9bWXcHE1
+R8
+IcSJ[FcD^C95AfRQb2HzCo1
+R9
+S1
+R10
+w1711470448
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Instruction_Memory.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Instruction_Memory.sv
+!i122 1311
+L0 1 10
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Instruction_Memory.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Instruction_Memory.sv|
+!i113 1
+R13
+R5
+n@instruction_@memory
+vLoadStore_Unit
+R7
+R14
+!i10b 1
+!s100 AUn31nhNhED]M@9XJ9Y:f3
+R8
+IIN7mh<K@l6VY4b8AR8[K32
+R9
+S1
+R10
+w1712086905
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/LoadStore_Unit.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/LoadStore_Unit.sv
+!i122 1312
+L0 1 122
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/LoadStore_Unit.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/LoadStore_Unit.sv|
+!i113 1
+R13
+R5
+n@load@store_@unit
+vMux_PC
+R7
+Z19 !s110 1765111395
+!i10b 1
+!s100 S^HM5kO4a31[0baDzl[Og3
+R8
+Iab;Q:Kk:h?G79bZdARN8V0
+R9
+S1
+R10
+w1711418369
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/MuxPC.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/MuxPC.sv
+!i122 1315
+R18
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/MuxPC.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/MuxPC.sv|
+!i113 1
+R13
+R5
+n@mux_@p@c
+vmux_selA
+R7
+R14
+!i10b 1
+!s100 RQl5ldOczE01HYWjS^e1S1
+R8
+IUNDNLFFe73I_cYIS_Bn2n2
+R9
+S1
+R10
+w1711418421
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/mux_selA.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/mux_selA.sv
+!i122 1313
+L0 1 12
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/mux_selA.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/mux_selA.sv|
+!i113 1
+R13
+R5
+nmux_sel@a
+vmux_selB
+R7
+R14
+!i10b 1
+!s100 ^D7D?IjkWYPm9`<:@5Fo`0
+R8
+I8b=Ze=]i7:o7iAmRA0>:V0
+R9
+S1
+R10
+w1711418426
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/mux_selB.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/mux_selB.sv
+!i122 1314
+Z20 L0 1 15
+R12
+r1
+!s85 0
+31
+R15
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/mux_selB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/mux_selB.sv|
+!i113 1
+R13
+R5
+nmux_sel@b
+vMuxResult
+R7
+R19
+!i10b 1
+!s100 mHYiU_8m?Im2F4PIW[>UY2
+R8
+IeW3ElXKNbkifN=14GGLPz3
+R9
+S1
+R10
+w1711418373
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/MuxResult.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/MuxResult.sv
+!i122 1316
+R18
+R12
+r1
+!s85 0
+31
+Z21 !s108 1765111395.000000
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/MuxResult.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/MuxResult.sv|
+!i113 1
+R13
+R5
+n@mux@result
+vPCPlus4
+R7
+R19
+!i10b 1
+!s100 dh[jHS`Z[D5bENBOQHBSY2
+R8
+I9Z0S:8MC0_J<]DC`bNHk40
+R9
+S1
+R10
+w1711418377
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/PCPlus4.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/PCPlus4.sv
+!i122 1317
+R11
+R12
+r1
+!s85 0
+31
+R21
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/PCPlus4.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/PCPlus4.sv|
+!i113 1
+R13
+R5
+n@p@c@plus4
+vprogram_counter
+R7
+R19
+!i10b 1
+!s100 fgzGb;igk2:=bf:F:blha2
+R8
+I564m;VNQ[U^c3@=W1]@5]1
+R9
+S1
+R10
+w1712080300
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/program_Counter.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/program_Counter.sv
+!i122 1318
+R20
+R12
+r1
+!s85 0
+31
+R21
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/program_Counter.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/program_Counter.sv|
+!i113 1
+R13
+R5
+vRegister_file
+R7
+R19
+!i10b 1
+!s100 G3z<9J95OUgf^2<zV?kkg1
+R8
+IcVR8EmV9^=E]gL>JZB_?J1
+R9
+S1
+R10
+w1711251769
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Register_file.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Register_file.sv
+!i122 1319
+R16
+R12
+r1
+!s85 0
+31
+R21
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Register_file.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Register_file.sv|
+!i113 1
+R13
+R5
+n@register_file
+vSecond_Register
+R7
+R19
+!i10b 1
+!s100 eWb:MLjcEhQZiAaVgA41M3
+R8
+I9g?[n^nB307ciOB>WUA5M1
+R9
+S1
+R10
+w1714147644
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Second_Register.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Second_Register.sv
+!i122 1320
+L0 1 25
+R12
+r1
+!s85 0
+31
+R21
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Second_Register.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/Second_Register.sv|
+!i113 1
+R13
+R5
+n@second_@register
+vTopLevel
+R7
+R19
+!i10b 1
+!s100 4>daPje>A0>cUWN]9k9z=3
+R8
+IQFlo`S?K:NbiF6a<kE@V90
+R9
+S1
+R10
+w1712125857
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv
+!i122 1321
+L0 1 211
+R12
+r1
+!s85 0
+31
+R21
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel.sv|
+!i113 1
+R13
+R5
+n@top@level
+vTopLevel_tb
+R7
+R19
+!i10b 1
+!s100 ;C7Dd>S1GIJ`zVR`42T:o3
+R8
+I?nzXFGzPV>eoB1201odfE0
+R9
+S1
+R10
+w1712079157
+8/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel_tb.sv
+F/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel_tb.sv
+!i122 1322
+L0 1 26
+R12
+r1
+!s85 0
+31
+R21
+!s107 /home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|/home/mramzan/Fiverr/268F/lab_08_three_stage_pipelined_with forwarding/TopLevel_tb.sv|
+!i113 1
+R13
+R5
+n@top@level_tb

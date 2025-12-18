@@ -1,0 +1,176 @@
+{D:/6th_semester/CA LAB/lab_19/TopLevel.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/TopLevel.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module TopLevel
+
+Top level modules:
+	TopLevel
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/PCPlus4.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/PCPlus4.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module PCPlus4
+
+Top level modules:
+	PCPlus4
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/AddrPlus4.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/AddrPlus4.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module AddrPlus4
+
+Top level modules:
+	AddrPlus4
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/First_Register.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/First_Register.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module First_Register
+
+Top level modules:
+	First_Register
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/Register_file.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/Register_file.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Register_file
+
+Top level modules:
+	Register_file
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/controller.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/controller.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/Hazard_Controller.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/Hazard_Controller.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Hazard_Controller
+
+Top level modules:
+	Hazard_Controller
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/forward_mux1.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/forward_mux1.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module forward_mux1
+
+Top level modules:
+	forward_mux1
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/program_Counter.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/program_Counter.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/mux_selB.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/mux_selB.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_selB
+
+Top level modules:
+	mux_selB
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/Second_Register.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/Second_Register.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Second_Register
+
+Top level modules:
+	Second_Register
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/TopLevel_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/TopLevel_tb.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module TopLevel_tb
+
+Top level modules:
+	TopLevel_tb
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/Instruction_Memory.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/Instruction_Memory.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Instruction_Memory
+
+Top level modules:
+	Instruction_Memory
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/BranchCond.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/BranchCond.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module BranchCond
+
+Top level modules:
+	BranchCond
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/Instruction_Fetch.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/Instruction_Fetch.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Instruction_Fetch
+
+Top level modules:
+	Instruction_Fetch
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/LoadStore_Unit.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/LoadStore_Unit.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module LoadStore_Unit
+
+Top level modules:
+	LoadStore_Unit
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/instruction fetch.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/instruction fetch.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Instruction_Fetch
+
+Top level modules:
+	Instruction_Fetch
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/MuxPC.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/MuxPC.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Mux_PC
+
+Top level modules:
+	Mux_PC
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/mux_selA.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/mux_selA.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module mux_selA
+
+Top level modules:
+	mux_selA
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/forward_mux2.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/forward_mux2.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module forward_mux2
+
+Top level modules:
+	forward_mux2
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/immediate_gen.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/immediate_gen.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module immediate_gen
+
+Top level modules:
+	immediate_gen
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/Hazard_Unit.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/Hazard_Unit.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Hazard_Unit
+
+Top level modules:
+	Hazard_Unit
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/MuxResult.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/MuxResult.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MuxResult
+
+Top level modules:
+	MuxResult
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/Data_Memory.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/Data_Memory.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module Data_Memory
+
+Top level modules:
+	Data_Memory
+
+} {} {}} {D:/6th_semester/CA LAB/lab_19/ALU.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/6th_semester/CA LAB/lab_19/ALU.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
